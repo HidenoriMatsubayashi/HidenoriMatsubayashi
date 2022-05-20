@@ -1,0 +1,6 @@
+# These are supported funding model platforms
+
+github: HidenoriMatsubayashi
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+ - https://github.com/sony/flutter-elinux
+ - https://github.com/sony/flutter-embedded-linux
