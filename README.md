@@ -15,16 +15,19 @@ I'm Hidenori Matsubayashi who is a low-level software engineer.
 
 ### 💻 Open Source Software Development:
 
-- [Flutter for eLinux](https://github.com/sony/flutter-elinux)
-- Bare-metal hypervisor (Type 1 hypervisor)
+- [Flutter for eLinux](https://github.com/sony/flutter-elinux) - Flutter for embedded devices
+- [eVisor](https://github.com/HidenoriMatsubayashi/evisor) - Bare-metal hypervisor (Type 1 hypervisor)
+- [waffle](https://github.com/HidenoriMatsubayashi/waffle) - Wayland compositor
 
 ### 🗒 About me:
 
 I'm a software engineer living in Japan. Outside Tech, I love to play video games, enjoy music and explore nature outdoors.
  
 - Check out Tech blogs: [Zenn (Japanese)](https://zenn.dev/hidenori3)
-- Talks:
-  - [Embedded Linux Conference Europe 2020 / Graphical User Interface Using Flutter in Embedded Systems - Hidenori Matsubayashi, Sony](https://osseu2020.sched.com/event/eCFA/graphical-user-interface-using-flutter-in-embedded-systems-hidenori-matsubayashi-sony)
-- Articles:
-  - [Flutter ARM64 Linux host support from Sony](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039)
+- Flutter Topics
+  - Talks:
+    - [Embedded Linux Conference Europe 2020 - Graphical User Interface Using Flutter in Embedded Systems - Hidenori Matsubayashi, Sony](https://osseu2020.sched.com/event/eCFA/graphical-user-interface-using-flutter-in-embedded-systems-hidenori-matsubayashi-sony)
+    - [Japan Technical Jamboree 77 - Flutter for Embedded Systems](https://elinux.org/images/f/f1/Jamboree77-Flutter-for-embedded-systems.pdf)
+  - Articles:
+    - [Flutter ARM64 Linux host support from Sony](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039)
 - 📫 How to reach me: [hidenori.matsubayashi@gmail.com](mailto:hidenori.matsubayashi@gmail.com)
