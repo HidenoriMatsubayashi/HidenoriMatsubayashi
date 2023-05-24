@@ -24,10 +24,10 @@ I'm Hidenori Matsubayashi who is a low-level software engineer.
 I'm a software engineer living in Japan. Outside Tech, I love to play video games, enjoy music and explore nature outdoors.
  
 - Check out Tech blogs: [Zenn (Japanese)](https://zenn.dev/hidenori3)
-- Flutter Topics
-  - Talks:
-    - [Embedded Linux Conference Europe 2020 - Graphical User Interface Using Flutter in Embedded Systems - Hidenori Matsubayashi, Sony](https://osseu2020.sched.com/event/eCFA/graphical-user-interface-using-flutter-in-embedded-systems-hidenori-matsubayashi-sony)
-    - [Japan Technical Jamboree 77 - Flutter for Embedded Systems](https://elinux.org/images/f/f1/Jamboree77-Flutter-for-embedded-systems.pdf)
-  - Articles:
-    - [Flutter ARM64 Linux host support from Sony](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039)
+- Talks:
+   - [Embedded Linux Conference Europe 2020](https://osseu2020.sched.com/event/eCFA/graphical-user-interface-using-flutter-in-embedded-systems-hidenori-matsubayashi-sony) - Graphical User Interface Using Flutter in Embedded Systems
+   - [Japan Technical Jamboree 80](https://elinux.org/Japan_Technical_Jamboree_80) - 自作ハイパーバイザーを作ってNuttXを動かした話
+   - [Japan Technical Jamboree 77](https://elinux.org/images/f/f1/Jamboree77-Flutter-for-embedded-systems.pdf) - Flutter for Embedded Systems
+- Articles:
+  - [Flutter ARM64 Linux host support from Sony](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039)
 - 📫 How to reach me: [hidenori.matsubayashi@gmail.com](mailto:hidenori.matsubayashi@gmail.com)
