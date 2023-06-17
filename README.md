@@ -18,6 +18,7 @@ I'm Hidenori Matsubayashi who is a low-level software engineer.
 - [Flutter for eLinux](https://github.com/sony/flutter-elinux) - Flutter for embedded devices
 - [eVisor](https://github.com/HidenoriMatsubayashi/evisor) - Bare-metal hypervisor (Type 1 hypervisor)
 - [waffle](https://github.com/HidenoriMatsubayashi/waffle) - Wayland compositor
+- [riscv-emu](https://github.com/HidenoriMatsubayashi/riscv-emu) - RISC-V emulator that is written in Rust. Support Linux, xv6, NuttX, FreeRTOS, Zephyr OS etc.
 
 ### 🗒 About me:
 
