@@ -1,9 +1,6 @@
 ## Hey! 👋</h2>
 
-<a href="https://twitter.com/HMatsubayashi">
-  <img align="left" alt="Hidenori | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HMatsubayashi)
 [![GitHub followers](https://img.shields.io/github/followers/HidenoriMatsubayashi.svg?style=social&label=Follow)](https://github.com/HidenoriMatsubayashi?tab=followers)
 
 <br>
