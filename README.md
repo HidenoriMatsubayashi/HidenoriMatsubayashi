@@ -6,6 +6,8 @@ I'm Hidenori Matsubayashi who is a low-level software engineer.
 - <i>Currently:</i> Software Engineer at NVIDIA. 
 - <i>Previously:</i> Software Engineer at Sony.
 
+📫 How to reach me: [hidenori.matsubayashi@gmail.com](mailto:hidenori.matsubayashi@gmail.com)
+
 ### 💻 Open Source Software Developments:
 
 - [Flutter for eLinux](https://github.com/sony/flutter-elinux) - Flutter for embedded devices
@@ -22,4 +24,3 @@ I'm Hidenori Matsubayashi who is a low-level software engineer.
    - [Embedded Linux Conference Europe 2020](https://osseu2020.sched.com/event/eCFA/graphical-user-interface-using-flutter-in-embedded-systems-hidenori-matsubayashi-sony) - Graphical User Interface Using Flutter in Embedded Systems
 - Articles:
   - [Flutter ARM64 Linux host support from Sony](https://medium.com/flutter/whats-new-in-flutter-2-2-fd00c65e2039)
-- 📫 How to reach me: [hidenori.matsubayashi@gmail.com](mailto:hidenori.matsubayashi@gmail.com)
