@@ -2,24 +2,19 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/HidenoriMatsubayashi.svg?style=social&label=Follow)](https://github.com/HidenoriMatsubayashi?tab=followers)
 
-<br>
-
 I'm Hidenori Matsubayashi who is a low-level software engineer.
-
 - <i>Currently:</i> Software Engineer at NVIDIA. 
 - <i>Previously:</i> Software Engineer at Sony.
 
-### 💻 Open Source Software Development:
+### 💻 Open Source Software Developments:
 
 - [Flutter for eLinux](https://github.com/sony/flutter-elinux) - Flutter for embedded devices
 - [eVisor](https://github.com/HidenoriMatsubayashi/evisor) - Bare-metal hypervisor (Type 1 hypervisor)
 - [waffle](https://github.com/HidenoriMatsubayashi/waffle) - Wayland compositor
 - [riscv-emu](https://github.com/HidenoriMatsubayashi/riscv-emu) - RISC-V emulator that is written in Rust. Support Linux, xv6, NuttX, FreeRTOS, Zephyr OS etc.
 
-### 🗒 About me:
+### 🗒 Tech Talks & Articles:
 
-I'm a software engineer living in Japan and a maintainer of [Flutter for eLinux](https://github.com/sony/flutter-elinux). Outside Tech, I love to play video games, enjoy music and explore nature outdoors.
- 
 - Check out Tech blogs: [Zenn (Japanese)](https://zenn.dev/hidenori3)
 - Talks:
    - [Japan Technical Jamboree 80](https://elinux.org/Japan_Technical_Jamboree_80) - 自作ハイパーバイザーを作ってNuttXを動かした話
